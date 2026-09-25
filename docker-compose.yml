@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  outreach-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ai-outreach-agent:latest
+    container_name: ai-outreach-agent
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      # Gmail / Google Workspace SMTP & IMAP Credentials
+      - GMAIL_USER=${GMAIL_USER}
+      - GMAIL_APP_PASS=${GMAIL_APP_PASS}
+      
+      # Multi-Channel Alert Integrations
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN:-}
+      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID:-}
+      - DISCORD_WEBHOOK_URL=${DISCORD_WEBHOOK_URL:-}
+      - ENABLE_DESKTOP_TOAST=false
+      
+      # Operational Timezone (Defaults to US Eastern Time for US business hours)
+      - TZ=America/New_York
+      - PORT=8000
+    volumes:
+      # Persistent State & Database Files
+      - ./campaign_state.json:/app/campaign_state.json
+      - ./daemon_state.json:/app/daemon_state.json
+      - ./sentinel_state.json:/app/sentinel_state.json
+      - ./leads_master_db.json:/app/leads_master_db.json
+      - ./daemon.log:/app/daemon.log
+      - ./alerts.log:/app/alerts.log

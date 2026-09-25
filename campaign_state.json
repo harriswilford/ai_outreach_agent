@@ -1,0 +1,1630 @@
+{
+  "sent_ids": [
+    5,
+    9,
+    11,
+    20,
+    16,
+    35,
+    39,
+    82,
+    94,
+    96,
+    105,
+    109,
+    98,
+    129,
+    127,
+    140,
+    160,
+    204,
+    165,
+    206,
+    210,
+    224,
+    230,
+    245,
+    239,
+    268,
+    254,
+    269,
+    300,
+    308,
+    299,
+    321,
+    326,
+    328,
+    329,
+    336,
+    339,
+    356,
+    445,
+    493,
+    376,
+    509,
+    427,
+    558,
+    565,
+    566,
+    567,
+    570,
+    578,
+    591,
+    630,
+    635,
+    638,
+    655,
+    660,
+    686,
+    695,
+    716,
+    717,
+    722,
+    724,
+    734,
+    774,
+    824,
+    844,
+    865,
+    883,
+    893,
+    913,
+    939,
+    946,
+    949,
+    984,
+    994,
+    1004,
+    1095,
+    1113,
+    1134,
+    1141,
+    1159,
+    1182,
+    1196,
+    1205,
+    1232,
+    1239,
+    1243,
+    1259,
+    1333,
+    1361,
+    1367,
+    1415
+  ],
+  "replied_ids": [],
+  "sample_requested_ids": [],
+  "closed_ids": [],
+  "blacklisted_emails": [],
+  "inbound_opportunities": [
+    {
+      "uid": "925",
+      "company": "Prospective Client",
+      "lead_id": null,
+      "sender_email": "reio@instantly.ai",
+      "subject": "Find leads, launch outreach, and save with bundle pricing",
+      "date": "Fri, 18 Sep 2026 15:41:58 +0000",
+      "intent": "HOT_LEAD_PLANS",
+      "snippet": "",
+      "attachments": [],
+      "timestamp": "2026-09-22 18:19:44"
+    },
+    {
+      "uid": "924",
+      "company": "Prospective Client",
+      "lead_id": null,
+      "sender_email": "do_not_reply@smailer2.binance.com",
+      "subject": "Last Day to Get a 20 USDT  in Trading Fee Rebates",
+      "date": "Mon, 14 Sep 2026 18:48:06 +0000",
+      "intent": "INTERESTED",
+      "snippet": "",
+      "attachments": [],
+      "timestamp": "2026-09-22 18:20:09"
+    }
+  ],
+  "send_logs": [
+    {
+      "lead_id": 5,
+      "company": "Cornerstone Construction Enterprises",
+      "email": "estimating@cornerstonebuilds.com",
+      "subject": "quick question regarding Cornerstone Construction Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-23 21:44:14",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 9,
+      "company": "Vertex Commercial Systems",
+      "email": "bids@vertexbuilds.com",
+      "subject": "quick question regarding Vertex Commercial Systems's takeoff bandwidth",
+      "sent_at": "2026-09-23 21:54:46",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 11,
+      "company": "Legacy General Contracting Associates",
+      "email": "aclark@legacybuilds.com",
+      "subject": "quick question regarding Legacy General Contracting Associates's takeoff bandwidth",
+      "sent_at": "2026-09-23 21:56:30",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 20,
+      "company": "Cornerstone Commercial Group",
+      "email": "bids@cornerstonebuilds.com",
+      "subject": "quick question regarding Cornerstone Commercial Group's takeoff bandwidth",
+      "sent_at": "2026-09-23 21:58:28",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 16,
+      "company": "Vertex Construction Builders",
+      "email": "estimating@vertexbuilds.com",
+      "subject": "quick question regarding Vertex Construction Builders's takeoff bandwidth",
+      "sent_at": "2026-09-23 21:59:35",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 35,
+      "company": "Alliance Commercial Builders",
+      "email": "bids@alliancebuilds.com",
+      "subject": "quick question regarding Alliance Commercial Builders's takeoff bandwidth",
+      "sent_at": "2026-09-23 22:00:32",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 39,
+      "company": "Trident Commercial Group",
+      "email": "bids@tridentbuilds.com",
+      "subject": "quick question regarding Trident Commercial Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:35:01",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 82,
+      "company": "Pinnacle General Contracting Systems",
+      "email": "estimating@pinnaclebuilds.com",
+      "subject": "quick question regarding Pinnacle General Contracting Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:39:16",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 94,
+      "company": "Paramount Construction Construction",
+      "email": "dsmith@paramountbuilds.com",
+      "subject": "quick question regarding Paramount Construction Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:40:26",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 96,
+      "company": "Beacon Builders Systems",
+      "email": "jessica.wilson@beaconbuilds.com",
+      "subject": "quick question regarding Beacon Builders Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:41:17",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 96,
+      "company": "Beacon Builders Systems",
+      "email": "jessica.wilson@beaconbuilds.com",
+      "subject": "quick question regarding Beacon Builders Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:43:42",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 96,
+      "company": "Beacon Builders Systems",
+      "email": "jessica.wilson@beaconbuilds.com",
+      "subject": "quick question regarding Beacon Builders Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:51:35",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 96,
+      "company": "Beacon Builders Systems",
+      "email": "jessica.wilson@beaconbuilds.com",
+      "subject": "quick question regarding Beacon Builders Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:52:26",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 96,
+      "company": "Beacon Builders Systems",
+      "email": "jessica.wilson@beaconbuilds.com",
+      "subject": "quick question regarding Beacon Builders Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:54:47",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 105,
+      "company": "Matrix Construction Associates",
+      "email": "estimating@matrixbuilds.com",
+      "subject": "quick question regarding Matrix Construction Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:55:52",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 105,
+      "company": "Matrix Construction Associates",
+      "email": "estimating@matrixbuilds.com",
+      "subject": "quick question regarding Matrix Construction Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:57:29",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 109,
+      "company": "Beacon General Contracting Group",
+      "email": "estimating@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 18:58:52",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 109,
+      "company": "Beacon General Contracting Group",
+      "email": "estimating@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:00:41",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 109,
+      "company": "Beacon General Contracting Group",
+      "email": "estimating@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:03:03",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 98,
+      "company": "Beacon Construction Associates",
+      "email": "bids@beaconbuilds.com",
+      "subject": "quick question regarding Beacon Construction Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:04:02",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:06:14",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:08:03",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:09:01",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:10:04",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 127,
+      "company": "Integrity Commercial Enterprises",
+      "email": "eric@integritybuilds.com",
+      "subject": "quick question regarding Integrity Commercial Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:11:33",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:13:04",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:14:27",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:16:14",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:17:28",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:18:30",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:19:18",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 140,
+      "company": "Apex Builders Partners",
+      "email": "estimating@apexbuilds.com",
+      "subject": "quick question regarding Apex Builders Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:20:31",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 160,
+      "company": "Strategic Commercial Enterprises",
+      "email": "bids@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:21:58",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:23:19",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:24:11",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 129,
+      "company": "Summit Construction Group",
+      "email": "kthompson@summitbuilds.com",
+      "subject": "quick question regarding Summit Construction Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:26:09",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 204,
+      "company": "Precision General Contracting Partners",
+      "email": "bids@precisionbuilds.com",
+      "subject": "quick question regarding Precision General Contracting Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:27:58",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 204,
+      "company": "Precision General Contracting Partners",
+      "email": "bids@precisionbuilds.com",
+      "subject": "quick question regarding Precision General Contracting Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:29:17",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 165,
+      "company": "United Builders Builders",
+      "email": "rrobinson@unitedbuilds.com",
+      "subject": "quick question regarding United Builders Builders's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:30:25",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 204,
+      "company": "Precision General Contracting Partners",
+      "email": "bids@precisionbuilds.com",
+      "subject": "quick question regarding Precision General Contracting Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:31:25",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 204,
+      "company": "Precision General Contracting Partners",
+      "email": "bids@precisionbuilds.com",
+      "subject": "quick question regarding Precision General Contracting Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:32:52",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 206,
+      "company": "Benchmark Construction Services",
+      "email": "lisa.williams@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark Construction Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:33:56",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 210,
+      "company": "Benchmark Builders Services",
+      "email": "bids@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark Builders Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:35:00",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 224,
+      "company": "Vanguard Construction Contractors",
+      "email": "bids@vanguardbuilds.com",
+      "subject": "quick question regarding Vanguard Construction Contractors's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:36:23",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 210,
+      "company": "Benchmark Builders Services",
+      "email": "bids@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark Builders Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:37:43",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 230,
+      "company": "Vertex Builders Services",
+      "email": "matthew.smith@vertexbuilds.com",
+      "subject": "quick question regarding Vertex Builders Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:38:58",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 210,
+      "company": "Benchmark Builders Services",
+      "email": "bids@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark Builders Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:40:38",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 224,
+      "company": "Vanguard Construction Contractors",
+      "email": "bids@vanguardbuilds.com",
+      "subject": "quick question regarding Vanguard Construction Contractors's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:42:15",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 245,
+      "company": "Benchmark General Contracting Enterprises",
+      "email": "jennifer.clark@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark General Contracting Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:44:04",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 245,
+      "company": "Benchmark General Contracting Enterprises",
+      "email": "jennifer.clark@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark General Contracting Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:45:43",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 245,
+      "company": "Benchmark General Contracting Enterprises",
+      "email": "jennifer.clark@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark General Contracting Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:47:17",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 245,
+      "company": "Benchmark General Contracting Enterprises",
+      "email": "jennifer.clark@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark General Contracting Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:48:39",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 245,
+      "company": "Benchmark General Contracting Enterprises",
+      "email": "jennifer.clark@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark General Contracting Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:49:39",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 245,
+      "company": "Benchmark General Contracting Enterprises",
+      "email": "jennifer.clark@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark General Contracting Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:51:35",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 245,
+      "company": "Benchmark General Contracting Enterprises",
+      "email": "jennifer.clark@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark General Contracting Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:52:37",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 245,
+      "company": "Benchmark General Contracting Enterprises",
+      "email": "jennifer.clark@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark General Contracting Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:53:38",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 245,
+      "company": "Benchmark General Contracting Enterprises",
+      "email": "jennifer.clark@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark General Contracting Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:54:57",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 239,
+      "company": "Vanguard General Contracting Partners",
+      "email": "estimating@vanguardbuilds.com",
+      "subject": "quick question regarding Vanguard General Contracting Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:55:59",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 268,
+      "company": "Titan Commercial Solutions",
+      "email": "rachel.hernandez@titanbuilds.com",
+      "subject": "quick question regarding Titan Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:57:52",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 254,
+      "company": "Cornerstone Commercial Associates",
+      "email": "bjones@cornerstonebuilds.com",
+      "subject": "quick question regarding Cornerstone Commercial Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 19:58:41",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 268,
+      "company": "Titan Commercial Solutions",
+      "email": "rachel.hernandez@titanbuilds.com",
+      "subject": "quick question regarding Titan Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:00:32",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 268,
+      "company": "Titan Commercial Solutions",
+      "email": "rachel.hernandez@titanbuilds.com",
+      "subject": "quick question regarding Titan Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:02:08",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 268,
+      "company": "Titan Commercial Solutions",
+      "email": "rachel.hernandez@titanbuilds.com",
+      "subject": "quick question regarding Titan Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:03:15",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 268,
+      "company": "Titan Commercial Solutions",
+      "email": "rachel.hernandez@titanbuilds.com",
+      "subject": "quick question regarding Titan Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:04:12",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 268,
+      "company": "Titan Commercial Solutions",
+      "email": "rachel.hernandez@titanbuilds.com",
+      "subject": "quick question regarding Titan Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:06:07",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 269,
+      "company": "Premier Construction Solutions",
+      "email": "aharris@premierbuilds.com",
+      "subject": "quick question regarding Premier Construction Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:07:17",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 268,
+      "company": "Titan Commercial Solutions",
+      "email": "rachel.hernandez@titanbuilds.com",
+      "subject": "quick question regarding Titan Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:08:10",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 268,
+      "company": "Titan Commercial Solutions",
+      "email": "rachel.hernandez@titanbuilds.com",
+      "subject": "quick question regarding Titan Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:09:44",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 300,
+      "company": "Premier Builders Enterprises",
+      "email": "robert.perez@premierbuilds.com",
+      "subject": "quick question regarding Premier Builders Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:10:32",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 300,
+      "company": "Premier Builders Enterprises",
+      "email": "robert.perez@premierbuilds.com",
+      "subject": "quick question regarding Premier Builders Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:12:12",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 300,
+      "company": "Premier Builders Enterprises",
+      "email": "robert.perez@premierbuilds.com",
+      "subject": "quick question regarding Premier Builders Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:13:48",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 300,
+      "company": "Premier Builders Enterprises",
+      "email": "robert.perez@premierbuilds.com",
+      "subject": "quick question regarding Premier Builders Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:15:53",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:18:41",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:19:59",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:20:51",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:23:58",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:25:01",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:25:58",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:27:24",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 299,
+      "company": "Beacon Construction Construction",
+      "email": "mwilson@beaconbuilds.com",
+      "subject": "quick question regarding Beacon Construction Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:28:19",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:29:30",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:30:56",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 321,
+      "company": "Metro Construction Systems",
+      "email": "bids@metrobuilds.com",
+      "subject": "quick question regarding Metro Construction Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:50:35",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 326,
+      "company": "Integrity Builders Construction",
+      "email": "asanchez@integritybuilds.com",
+      "subject": "quick question regarding Integrity Builders Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:52:29",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 328,
+      "company": "Pinnacle Builders Services",
+      "email": "rmiller@pinnaclebuilds.com",
+      "subject": "quick question regarding Pinnacle Builders Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:54:05",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:55:09",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 329,
+      "company": "United Commercial Group",
+      "email": "kevin.lee@unitedbuilds.com",
+      "subject": "quick question regarding United Commercial Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:56:06",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 336,
+      "company": "Matrix Builders Services",
+      "email": "ltaylor@matrixbuilds.com",
+      "subject": "quick question regarding Matrix Builders Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:57:34",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 308,
+      "company": "Strategic Commercial Construction",
+      "email": "estimating@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 20:59:06",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 336,
+      "company": "Matrix Builders Services",
+      "email": "ltaylor@matrixbuilds.com",
+      "subject": "quick question regarding Matrix Builders Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:00:55",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 339,
+      "company": "Integrity Commercial Associates",
+      "email": "amanda.thompson@integritybuilds.com",
+      "subject": "quick question regarding Integrity Commercial Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:01:51",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 356,
+      "company": "United Commercial Solutions",
+      "email": "jbrown@unitedbuilds.com",
+      "subject": "quick question regarding United Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:03:54",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 356,
+      "company": "United Commercial Solutions",
+      "email": "jbrown@unitedbuilds.com",
+      "subject": "quick question regarding United Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:05:31",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 356,
+      "company": "United Commercial Solutions",
+      "email": "jbrown@unitedbuilds.com",
+      "subject": "quick question regarding United Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:06:54",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 356,
+      "company": "United Commercial Solutions",
+      "email": "jbrown@unitedbuilds.com",
+      "subject": "quick question regarding United Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:08:50",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 356,
+      "company": "United Commercial Solutions",
+      "email": "jbrown@unitedbuilds.com",
+      "subject": "quick question regarding United Commercial Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:10:41",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 445,
+      "company": "Integrity Construction Systems",
+      "email": "nicole.taylor@integritybuilds.com",
+      "subject": "quick question regarding Integrity Construction Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:12:29",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 445,
+      "company": "Integrity Construction Systems",
+      "email": "nicole.taylor@integritybuilds.com",
+      "subject": "quick question regarding Integrity Construction Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:14:22",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 445,
+      "company": "Integrity Construction Systems",
+      "email": "nicole.taylor@integritybuilds.com",
+      "subject": "quick question regarding Integrity Construction Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:15:56",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 445,
+      "company": "Integrity Construction Systems",
+      "email": "nicole.taylor@integritybuilds.com",
+      "subject": "quick question regarding Integrity Construction Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:17:18",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 493,
+      "company": "Vanguard Commercial Partners",
+      "email": "amanda@vanguardbuilds.com",
+      "subject": "quick question regarding Vanguard Commercial Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:20:23",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 493,
+      "company": "Vanguard Commercial Partners",
+      "email": "amanda@vanguardbuilds.com",
+      "subject": "quick question regarding Vanguard Commercial Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:21:44",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 493,
+      "company": "Vanguard Commercial Partners",
+      "email": "amanda@vanguardbuilds.com",
+      "subject": "quick question regarding Vanguard Commercial Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:23:09",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 493,
+      "company": "Vanguard Commercial Partners",
+      "email": "amanda@vanguardbuilds.com",
+      "subject": "quick question regarding Vanguard Commercial Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:24:23",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 376,
+      "company": "Precision Builders Associates",
+      "email": "kevin.martin@precisionbuilds.com",
+      "subject": "quick question regarding Precision Builders Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:25:13",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 509,
+      "company": "Beacon General Contracting Systems",
+      "email": "ethomas@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:27:09",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 509,
+      "company": "Beacon General Contracting Systems",
+      "email": "ethomas@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:28:53",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 509,
+      "company": "Beacon General Contracting Systems",
+      "email": "ethomas@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:29:47",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 427,
+      "company": "Trident General Contracting Contractors",
+      "email": "matthew.smith@tridentbuilds.com",
+      "subject": "quick question regarding Trident General Contracting Contractors's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:31:16",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 558,
+      "company": "Matrix Commercial Associates",
+      "email": "bids@matrixbuilds.com",
+      "subject": "quick question regarding Matrix Commercial Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:32:25",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 509,
+      "company": "Beacon General Contracting Systems",
+      "email": "ethomas@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:34:11",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 509,
+      "company": "Beacon General Contracting Systems",
+      "email": "ethomas@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:35:56",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 509,
+      "company": "Beacon General Contracting Systems",
+      "email": "ethomas@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:37:14",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 509,
+      "company": "Beacon General Contracting Systems",
+      "email": "ethomas@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:38:39",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 565,
+      "company": "Precision Commercial Group",
+      "email": "estimating@precisionbuilds.com",
+      "subject": "quick question regarding Precision Commercial Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:39:26",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 509,
+      "company": "Beacon General Contracting Systems",
+      "email": "ethomas@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:40:17",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 566,
+      "company": "Premier Construction Systems",
+      "email": "lisa@premierbuilds.com",
+      "subject": "quick question regarding Premier Construction Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:41:21",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 509,
+      "company": "Beacon General Contracting Systems",
+      "email": "ethomas@beaconbuilds.com",
+      "subject": "quick question regarding Beacon General Contracting Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:42:48",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 558,
+      "company": "Matrix Commercial Associates",
+      "email": "bids@matrixbuilds.com",
+      "subject": "quick question regarding Matrix Commercial Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:44:36",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 558,
+      "company": "Matrix Commercial Associates",
+      "email": "bids@matrixbuilds.com",
+      "subject": "quick question regarding Matrix Commercial Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:45:38",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 567,
+      "company": "Matrix Commercial Contractors",
+      "email": "brian.moore@matrixbuilds.com",
+      "subject": "quick question regarding Matrix Commercial Contractors's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:46:27",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 558,
+      "company": "Matrix Commercial Associates",
+      "email": "bids@matrixbuilds.com",
+      "subject": "quick question regarding Matrix Commercial Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:47:15",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 570,
+      "company": "Alliance Commercial Group",
+      "email": "steve@alliancebuilds.com",
+      "subject": "quick question regarding Alliance Commercial Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 21:50:37",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 578,
+      "company": "Metro Builders Partners",
+      "email": "robert@metrobuilds.com",
+      "subject": "quick question regarding Metro Builders Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:10:16",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 591,
+      "company": "Premier General Contracting Associates",
+      "email": "amanda@premierbuilds.com",
+      "subject": "quick question regarding Premier General Contracting Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:10:22",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 630,
+      "company": "Cornerstone General Contracting Associates",
+      "email": "megan@cornerstonebuilds.com",
+      "subject": "quick question regarding Cornerstone General Contracting Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:10:29",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 635,
+      "company": "Premier Builders Associates",
+      "email": "jlopez@premierbuilds.com",
+      "subject": "quick question regarding Premier Builders Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:10:38",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 635,
+      "company": "Premier Builders Associates",
+      "email": "jlopez@premierbuilds.com",
+      "subject": "quick question regarding Premier Builders Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:10:49",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 638,
+      "company": "Trident General Contracting Services",
+      "email": "ashley@tridentbuilds.com",
+      "subject": "quick question regarding Trident General Contracting Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:11:03",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 655,
+      "company": "Premier Construction Services",
+      "email": "megan@premierbuilds.com",
+      "subject": "quick question regarding Premier Construction Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:11:09",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 660,
+      "company": "Cornerstone Commercial Services",
+      "email": "egarcia@cornerstonebuilds.com",
+      "subject": "quick question regarding Cornerstone Commercial Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:11:16",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 686,
+      "company": "Trident Construction Solutions",
+      "email": "anthony@tridentbuilds.com",
+      "subject": "quick question regarding Trident Construction Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:11:26",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 695,
+      "company": "Apex General Contracting Associates",
+      "email": "eric.lopez@apexbuilds.com",
+      "subject": "quick question regarding Apex General Contracting Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:11:43",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 716,
+      "company": "Benchmark Builders Solutions",
+      "email": "cperez@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark Builders Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:12:07",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 717,
+      "company": "Trident Builders Construction",
+      "email": "jennifer@tridentbuilds.com",
+      "subject": "quick question regarding Trident Builders Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:12:32",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 722,
+      "company": "Pinnacle Commercial Group",
+      "email": "eharris@pinnaclebuilds.com",
+      "subject": "quick question regarding Pinnacle Commercial Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:12:53",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 724,
+      "company": "Paramount Construction Enterprises",
+      "email": "kevin.gonzalez@paramountbuilds.com",
+      "subject": "quick question regarding Paramount Construction Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:13:01",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 734,
+      "company": "Legacy Builders Group",
+      "email": "scott@legacybuilds.com",
+      "subject": "quick question regarding Legacy Builders Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:14:49",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 774,
+      "company": "Apex Construction Contractors",
+      "email": "nclark@apexbuilds.com",
+      "subject": "quick question regarding Apex Construction Contractors's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:15:03",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 824,
+      "company": "Alliance General Contracting Associates",
+      "email": "james.harris@alliancebuilds.com",
+      "subject": "quick question regarding Alliance General Contracting Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:15:38",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 844,
+      "company": "Precision General Contracting Services",
+      "email": "greg@precisionbuilds.com",
+      "subject": "quick question regarding Precision General Contracting Services's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:15:44",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 865,
+      "company": "Trident Builders Builders",
+      "email": "estimating@tridentbuilds.com",
+      "subject": "quick question regarding Trident Builders Builders's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:16:04",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 883,
+      "company": "Vanguard Builders Builders",
+      "email": "alewis@vanguardbuilds.com",
+      "subject": "quick question regarding Vanguard Builders Builders's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:23:42",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 893,
+      "company": "Legacy Construction Solutions",
+      "email": "jsanchez@legacybuilds.com",
+      "subject": "quick question regarding Legacy Construction Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:28:51",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 913,
+      "company": "Vanguard Builders Associates",
+      "email": "david@vanguardbuilds.com",
+      "subject": "quick question regarding Vanguard Builders Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:28:59",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 939,
+      "company": "Paramount Commercial Contractors",
+      "email": "jdavis@paramountbuilds.com",
+      "subject": "quick question regarding Paramount Commercial Contractors's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:29:06",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 946,
+      "company": "Matrix Builders Systems",
+      "email": "athomas@matrixbuilds.com",
+      "subject": "quick question regarding Matrix Builders Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:29:12",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 949,
+      "company": "United Commercial Contractors",
+      "email": "anthony@unitedbuilds.com",
+      "subject": "quick question regarding United Commercial Contractors's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:29:20",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 984,
+      "company": "Alliance Construction Partners",
+      "email": "jmartin@alliancebuilds.com",
+      "subject": "quick question regarding Alliance Construction Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:29:26",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 994,
+      "company": "Integrity General Contracting Construction",
+      "email": "bwhite@integritybuilds.com",
+      "subject": "quick question regarding Integrity General Contracting Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:29:32",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1004,
+      "company": "Titan Commercial Systems",
+      "email": "nanderson@titanbuilds.com",
+      "subject": "quick question regarding Titan Commercial Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:29:42",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1095,
+      "company": "Titan General Contracting Construction",
+      "email": "emily@titanbuilds.com",
+      "subject": "quick question regarding Titan General Contracting Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:29:53",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1113,
+      "company": "Integrity Construction Builders",
+      "email": "ashley.gonzalez@integritybuilds.com",
+      "subject": "quick question regarding Integrity Construction Builders's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:30:02",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1134,
+      "company": "Premier Builders Construction",
+      "email": "robert.martinez@premierbuilds.com",
+      "subject": "quick question regarding Premier Builders Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:30:08",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1141,
+      "company": "Metro Builders Construction",
+      "email": "michael@metrobuilds.com",
+      "subject": "quick question regarding Metro Builders Construction's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:30:15",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1159,
+      "company": "Pinnacle Builders Enterprises",
+      "email": "daniel.garcia@pinnaclebuilds.com",
+      "subject": "quick question regarding Pinnacle Builders Enterprises's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:30:23",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1182,
+      "company": "Strategic Commercial Systems",
+      "email": "jjackson@strategicbuilds.com",
+      "subject": "quick question regarding Strategic Commercial Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:30:30",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1196,
+      "company": "Premier Builders Partners",
+      "email": "mark@premierbuilds.com",
+      "subject": "quick question regarding Premier Builders Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:30:40",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1205,
+      "company": "Cornerstone General Contracting Partners",
+      "email": "jlewis@cornerstonebuilds.com",
+      "subject": "quick question regarding Cornerstone General Contracting Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:30:50",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1232,
+      "company": "Benchmark Builders Solutions",
+      "email": "rachel@benchmarkbuilds.com",
+      "subject": "quick question regarding Benchmark Builders Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:31:00",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1239,
+      "company": "Paramount Builders Group",
+      "email": "chris.davis@paramountbuilds.com",
+      "subject": "quick question regarding Paramount Builders Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:31:10",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1243,
+      "company": "Precision Builders Associates",
+      "email": "nmiller@precisionbuilds.com",
+      "subject": "quick question regarding Precision Builders Associates's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:31:21",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1259,
+      "company": "Alliance Commercial Group",
+      "email": "estimating@alliancebuilds.com",
+      "subject": "quick question regarding Alliance Commercial Group's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:31:30",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1333,
+      "company": "Vertex Builders Solutions",
+      "email": "rthompson@vertexbuilds.com",
+      "subject": "quick question regarding Vertex Builders Solutions's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:31:37",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1361,
+      "company": "Cornerstone Commercial Systems",
+      "email": "robert.williams@cornerstonebuilds.com",
+      "subject": "quick question regarding Cornerstone Commercial Systems's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:31:46",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1367,
+      "company": "Integrity Construction Partners",
+      "email": "ajackson@integritybuilds.com",
+      "subject": "quick question regarding Integrity Construction Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:31:54",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    },
+    {
+      "lead_id": 1415,
+      "company": "Pinnacle Builders Partners",
+      "email": "anthony.hernandez@pinnaclebuilds.com",
+      "subject": "quick question regarding Pinnacle Builders Partners's takeoff bandwidth",
+      "sent_at": "2026-09-24 22:32:02",
+      "status": "DELIVERED_SMTP",
+      "touch": 1
+    }
+  ]
+}

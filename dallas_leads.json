@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "company": "Perry HVAC",
+    "trade": "HVAC",
+    "name": "Erik",
+    "email": "info@perryhvac.com",
+    "subject": "quick idea for Perry HVAC (missed DFW AC calls)",
+    "body": "Hi Erik,\n\nNoticed Perry HVAC has a great reputation across Dallas/Fort Worth, but saw there isn’t an instant text-back system when someone calls after hours or when your dispatchers are on other lines.\n\nIn the DFW area during peak season, when a homeowner calls about an AC breakdown and gets voicemail, 70% immediately dial the next contractor on Google.\n\nWe set up a plug-and-play system that texts missed callers in under 15 seconds, qualifies the job (emergency vs routine estimate), and books them directly into your calendar before they contact competitors.\n\nOpen to seeing a 2-minute video of how this works on your existing line?\n\nBest,\nAlex"
+  },
+  {
+    "id": 2,
+    "company": "Kahn Mechanical Contractors",
+    "trade": "HVAC",
+    "name": "Mr. Kahn",
+    "email": "ckahn@kahnmechanical.com",
+    "subject": "quick question for Kahn Mechanical (after-hours service calls)",
+    "body": "Hi Mr. Kahn,\n\nNoticed Kahn Mechanical's strong presence across the DFW commercial & residential space.\n\nQuick question: when prospective property managers or homeowners call after dispatch hours, do you have an automated speed-to-lead responder in place, or do they drop to voicemail?\n\nWe install an instant 15-second SMS qualifier that answers basic job questions and captures the lead before they reach out to competing contractors in Dallas.\n\nWould you be open to a quick 2-minute overview this week?\n\nBest,\nAlex"
+  },
+  {
+    "id": 3,
+    "company": "Custom Works Plumbing",
+    "trade": "Plumbing",
+    "name": "Mary & Carlos",
+    "email": "mary@customworksplumbing.com",
+    "subject": "emergency leak calls & instant text-back for Custom Works Plumbing",
+    "body": "Hi Mary & Carlos,\n\nReaching out because when homeowners in Dallas have an active plumbing leak or water heater breakdown, they rarely leave voicemails—they just call the next plumber on Google if no one picks up within 3 rings.\n\nWe built an instant AI text-back workflow for local plumbers that texts callers within 15 seconds, asks for their address/issue, and reserves the dispatch window immediately.\n\nWould love to show you a 2-minute demo of how this protects your lead pipeline.\n\nWorth a quick look?\n\nBest,\nAlex"
+  },
+  {
+    "id": 4,
+    "company": "Mother Modern Plumbing",
+    "trade": "Plumbing",
+    "name": "Dustin",
+    "email": "matthew@callmother.com",
+    "subject": "speed-to-lead idea for Mother Modern Plumbing",
+    "body": "Hi Dustin,\n\nLove the modern branding of Mother Plumbing in Dallas.\n\nSaw you get a high volume of online and phone inquiries. We install an automated 15-second missed-call & form text-back engine that locks in emergency dispatch jobs before homeowners can call another DFW plumber.\n\nWe also run a 72-hour reactivation campaign to past customer lists to book tune-up and inspection jobs on demand.\n\nOpen to seeing a 2-minute video breakdown?\n\nBest,\nAlex"
+  },
+  {
+    "id": 5,
+    "company": "Excell Electrical Contractors",
+    "trade": "Electrical",
+    "name": "Reyes",
+    "email": "excellelectric@excellelectric.com",
+    "subject": "quick idea for Excell Electrical (panel & EV estimate leads)",
+    "body": "Hi Reyes,\n\nNoticed Excell Electrical's great track record in Dallas. With the surge in EV charger installations and panel upgrades across DFW, speed-to-quote is where most contractors win or lose the job.\n\nWe set up an automated instant quote-booking text system that replies to missed calls and website quotes within 15 seconds, qualifying the scope and booking an estimate visit on your calendar.\n\nWould you be open to a 2-minute demo of how it works?\n\nBest,\nAlex"
+  },
+  {
+    "id": 6,
+    "company": "MELS Electric LLC",
+    "trade": "Electrical",
+    "name": "Micheal",
+    "email": "melselectric@melselectric.com",
+    "subject": "missed-call capture for MELS Electric",
+    "body": "Hi Micheal,\n\nReaching out because when Dallas homeowners face electrical panel trips or emergency outages, if a call goes to voicemail, they immediately move to the next Google Maps listing.\n\nWe install an automated SMS text-back engine that responds in 15 seconds, collects job photos/details, and notifies your tech team instantly.\n\nTakes less than 2 hours to deploy. Open to checking out a quick 2-minute video?\n\nBest,\nAlex"
+  },
+  {
+    "id": 7,
+    "company": "Burris Mechanical Group",
+    "trade": "HVAC",
+    "name": "Kyle",
+    "email": "info@burrismechanicalgroup.com",
+    "subject": "quick idea for Burris Mechanical (DFW maintenance renewals)",
+    "body": "Hi Kyle,\n\nNoticed Burris Mechanical's reputation in DFW. With the upcoming seasonal transition, keeping service technicians booked with maintenance agreements and seasonal checkups is key.\n\nWe run a 72-hour database reactivation campaign over SMS/Email that reaches past customers and books 8–15 inspection appointments without running ads.\n\nWould you be open to seeing how the campaign template works?\n\nBest,\nAlex"
+  },
+  {
+    "id": 8,
+    "company": "FTS Electric LLC",
+    "trade": "Electrical",
+    "name": "Benjamin",
+    "email": "benjaminm@fts-electric.com",
+    "subject": "fast estimate booking for FTS Electric",
+    "body": "Hi Benjamin,\n\nNoticed FTS Electric's work across North Texas. When residential or commercial clients request electrical remodel quotes, speed of response is usually the #1 deciding factor.\n\nWe plug in an instant AI text-back and calendar booking system that engages inbound callers within 15 seconds and locks them into your schedule.\n\nOpen to seeing a quick 2-minute walkthrough?\n\nBest,\nAlex"
+  },
+  {
+    "id": 9,
+    "company": "Amber Electrical Contractors",
+    "trade": "Electrical",
+    "name": "Jerold & Angelica",
+    "email": "angelicam@amberelectrical.com",
+    "subject": "commercial quote follow-up system for Amber Electrical",
+    "body": "Hi Jerold & Angelica,\n\nNoticed Amber Electrical's commercial operations across Dallas.\n\nWe set up automated speed-to-lead quote workflows that ensure any inbound project inquiries or after-hours calls get qualified and scheduled within 30 seconds before they look elsewhere.\n\nWould you be open to a 2-minute video showing the setup in action?\n\nBest,\nAlex"
+  },
+  {
+    "id": 10,
+    "company": "Habit 24 Hour Electrician",
+    "trade": "Electrical",
+    "name": "Rudy",
+    "email": "Emergency@Habit24HourElectrician.com",
+    "subject": "24/7 missed-call AI text responder for Habit Electrician",
+    "body": "Hi Rudy,\n\nGiven that Habit Electrician focuses on 24-hour emergency calls in Dallas, every missed ring during peak night hours or while on a job is a lost $500–$1,200 emergency ticket.\n\nWe install an instant 15-second SMS auto-responder that asks the caller for their emergency location and issue, securing the dispatch before they call another 24/7 electrician.\n\nOpen to a 2-minute look at how it works?\n\nBest,\nAlex"
+  }
+]

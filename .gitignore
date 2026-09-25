@@ -1,0 +1,28 @@
+# Secrets & Credentials
+.env
+.env.local
+credentials.json
+token.json
+Credentials.json.json
+
+# Logs
+*.log
+daemon.pid
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Large sample files
+portfolio_samples/
+*.pdf
+
+# Backups & temporary data
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
