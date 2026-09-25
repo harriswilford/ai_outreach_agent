@@ -21,7 +21,7 @@ touch daemon.log alerts.log daemon_state.json sentinel_state.json campaign_state
 
 # Launch background outreach & inbox sentinel daemon
 echo "[+] Starting 24/7 Background Daemon (Outreach + Inbox Sentinel)..."
-python background_daemon.py &
+python background_daemon.py run &
 DAEMON_PID=$!
 echo "[+] Background Daemon active with PID: $DAEMON_PID"
 
