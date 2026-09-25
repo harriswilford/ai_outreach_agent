@@ -12,3 +12,8 @@ venv/
 .gitignore
 .vscode
 .idea
+.env
+portfolio_samples/
+*.bat
+*.vbs
+*.ps1
