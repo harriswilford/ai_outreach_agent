@@ -69,6 +69,7 @@ class AutonomousBackgroundDaemon:
         self.automator = GmailAutomator(daily_send_limit=self.planner.config["daily_limit"])
         self.last_inbox_check = 0.0
         self.last_daily_summary_date = ""
+        self.quota_exhausted_date = ""
         self.inbox_check_interval = 600.0  # Check inbox every 10 minutes
 
     def _save_daemon_state(self, status: str = "RUNNING", extra: Optional[Dict[str, Any]] = None):
@@ -135,13 +136,18 @@ class AutonomousBackgroundDaemon:
             result["outreach_action"] = f"PAUSED: {status_msg}"
             return result
 
-        # 4. Daily Outreach Quota Check
+        # 4. Check if today's Google SMTP quota was already reached
+        if self.quota_exhausted_date == today_str:
+            result["outreach_action"] = f"PAUSED: Gmail daily sending limit reached for today ({today_str})"
+            return result
+
+        # 5. Daily Outreach Quota Check
         today_sent = self.planner.get_today_sent_count()
         if today_sent >= self.planner.config["daily_limit"]:
             result["outreach_action"] = f"QUOTA_REACHED: {today_sent}/{self.planner.config['daily_limit']} sent today"
             return result
 
-        # 5. Retrieve Next Lead from Queue
+        # 6. Retrieve Next Lead from Queue
         batch = self.planner.plan_next_batch(max_batch_size=1)
         if not batch:
             result["outreach_action"] = "QUEUE_EMPTY: No eligible leads available right now"
@@ -188,6 +194,21 @@ class AutonomousBackgroundDaemon:
             result["outreach_action"] = "DELIVERED"
             result["leads_sent"] = 1
         except Exception as e:
+            err_msg = str(e)
+            if "Daily user sending limit exceeded" in err_msg or "5.4.5" in err_msg or "550" in err_msg:
+                log_event(f"Google daily SMTP sending limit reached ({today_sent} emails sent today). Pausing outreach until tomorrow to protect account.", "QUOTA")
+                self.quota_exhausted_date = today_str
+                try:
+                    self.alert_system.send_telegram(
+                        f"⚠️ <b>[DAILY SEND LIMIT REACHED]</b>\n\n"
+                        f"Gmail daily SMTP quota reached for today ({today_sent} emails sent).\n"
+                        f"Outreach paused until next business window to protect sender reputation.\n"
+                        f"<b>Inbox Sentinel remains active 24/7</b>."
+                    )
+                except Exception:
+                    pass
+                result["outreach_action"] = "DAILY_QUOTA_REACHED"
+                return result
             log_event(f"Failed to send email to {recipient}: {e}", "ERROR")
             result["outreach_action"] = f"ERROR: {e}"
 
